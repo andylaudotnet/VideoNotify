@@ -1,0 +1,12 @@
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\obj\Debug\ResolveAssemblyReference.cache
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+E:\VideoNotify\VideoNotify\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+E:\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+E:\VideoNotify\HtmlAgilityPack\obj\Debug\ResolveAssemblyReference.cache
+E:\VideoNotify\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+E:\VideoNotify\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\VideoNotify\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
